@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>My CSS Template</title>
+<meta charset="utf-8">
+
+body {
+        font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+/* Style the header */
+.header {
+    color: #777
+    background-color: rgb(104, 80, 80)
+    width: "960px"
+    font-size: "18px"
+}
+
+/* Style the nav */
+.nav {
+    color: #777
+    background-color: rgb(104, 80, 80)
+    width: "960px"
+    font-size: "18px"
+}
