@@ -1,19 +1,42 @@
 
+/**
+ * HW-Wireframe Activity
+ **/
+
+ * {
+     box-sizing" border-box;
+     text-align: center;
+     margin-left: 75px;
+     margin-right: 75px;
+ }
+
 body {
-        font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-}
-/* Style the header */
-.header {
-    color: #777
-    background-color: rgb(104, 80, 80)
-    width: "960px"
-    font-size: "18px"
+    font-size: 24px;
+    line-height: 32px;
+    color: #fff;
+    background: gray;
 }
 
-/* Style the nav */
-.nav {
-    color: #777
-    background-color: rgb(104, 80, 80)
-    width: "960px"
-    font-size: "18px"
+header {
+    padding: 20px;
+    margin-bottom: 10px;
+    color: gray;
+    text-align: center;
+    background: #fff;
+}
+
+nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: gray;
+    background: #fff;
+    text-align: center;
+}
+
+footer {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: gray;
+    text-align: center;
+    background: #fff;
 }
