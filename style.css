@@ -28,13 +28,16 @@ nav {
     float: left;
     width: 495px;
     height: 275px;
+    margin-top: 15px;
+    padding-right: 10px;
     background-color: #ebebeb;
   }
 
 .Aside {
     float: right;
     height: 275px;
-    width: 455px;
+    width: 435px;
+    margin-top: 15px;
     background-color: #ebebeb;
   }
   
@@ -48,5 +51,5 @@ footer {
     background-color: #ebebeb;
     height: 30px;
     padding: 15px;
-    margin-top: 10px;
+    margin-top: 20px;
 }
